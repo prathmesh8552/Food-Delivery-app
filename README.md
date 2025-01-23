@@ -1,4 +1,4 @@
-# Krishna Paikine - Food Ordering Website
+#  Food Ordering Website
 
 Faster Feast is a food ordering website built using Vite and React. It aims to provide users with a seamless experience to browse through various cuisines, select dishes, and place orders online.
 
@@ -15,7 +15,7 @@ Faster Feast is a food ordering website built using Vite and React. It aims to p
 
 <img width="1429" alt="Screenshot 2024-06-01 at 12 07 40 PM" src="SC/SCR-20240614-sbzg.jpeg">
 <img width="1429" alt="Screenshot 2024-06-01 at 12 08 44 PM" src="SC/SCR-20240614-scfd.jpeg">
-<img width="1429" alt="Screenshot 2024-06-01 at 12 08 00 PM" src="SC/SCR-20240614-sclk.png">
+
 <img width="1429" alt="Screenshot 2024-06-01 at 12 08 08 PM" src="SC/SCR-20240614-sdfg.png">
 <img width="1429" alt="Screenshot 2024-06-01 at 12 08 08 PM" src="SC/SCR-20240614-sdiz.jpeg">
 <img width="1429" alt="Screenshot 2024-06-01 at 12 08 08 PM" src="SC/SCR-20240614-sdoq.png">
@@ -54,13 +54,13 @@ To run **Faster Feast** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/gutsdkrishna/FasterFeasts-main.git
+sudo git clone https://github.com/prathmesh8552/Food-Delivery-app.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/gutsdkrishna/FasterFeasts-main.git
+git clone https://github.com/prathmesh8552/Food-Delivery-app.git
 ```
 
 ## License
